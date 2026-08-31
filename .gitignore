@@ -1,0 +1,5 @@
+# Ephemeral agent outputs
+/artifacts/
+
+# OS
+.DS_Store
